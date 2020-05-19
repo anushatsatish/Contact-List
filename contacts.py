@@ -1,0 +1,1 @@
+contactlist = [['Anusha Satish', '21376454'], ['Jackson, Janet', '313-1352'], ['James, Lebron', '457-6223'], ['Manfredi, Ralph', '872-2277'], ['Pari', '222-23432'], ['Robbins, Tony', '329-2310'], ['Siemens, Harper', '323-4149'], ['Smith, Patti', '239-1212'], ['Thompson, Bobby', '365-2622'], ['Ziegler, Zig', '667-1101']]
